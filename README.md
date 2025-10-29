@@ -53,14 +53,7 @@ Developed an inventory tracker linking `Inventory` and `Product` classes for CRU
 
 ---
 
-### **3d. Doctor–Patient Appointment System**
-Built an appointment scheduler coordinating multiple classes (`Doctor`, `Patient`, `Appointment`, `Scheduler`) with availability checks and time-slot allocation using Python’s `datetime` module.
-
-**Skills:** multi-class orchestration, validation, relationship modelling, time-based scheduling.
-
----
-
-### **3e. Library Lending System**
+### **3d. Library Lending System**
 Constructed a lending management system using inheritance and polymorphism.  
 `Item` serves as a parent class for `Book`, `Journal`, and `DVD`, while `Member` and `Loan` manage lending, returns, and due-date tracking.
 
