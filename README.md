@@ -6,7 +6,7 @@ These projects demonstrate key software engineering foundations — including co
 ---
 
 ## Project Structure
-Each folder contains a self-contained project with its own main script (`.py`), supporting modules, and test data when applicable.
+Each notebook contains a self-contained project, supporting modules, and test data when applicable.
 
 
 ---
@@ -73,7 +73,7 @@ Constructed a lending management system using inheritance and polymorphism.
 ## Technologies & Tools
 - **Language:** Python 3  
 - **Core Libraries:** `datetime`, `re`, `sys`, `os`  
-- **Environment:** Jupyter Notebook / VS Code  
+- **Environment:** Jupyter Notebook
 - **Version Control:** Git + GitHub  
 
 
